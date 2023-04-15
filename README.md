@@ -20,11 +20,8 @@
 고객이 업체의 일정을 확인한 후 빈 시간대에 요청 사항을 입력하면 업체 측에서는 확인 후 수락 및 거절 시 고객에게 메시지를 전송할 수 있습니다.
 
 ### ✅ 일정 알림 기능
-
 매일 오전 10시 오늘 일정 알림을 고객에게 전송합니다.
-
 고객이 예약을 신청하거나 취소하면 업체에게 알림 문자를 전송해주고, 업체가 예약을 승인하거나 취소하면 고객에게 알림 문자를 전송해줍니다.
-
 
 ### ✅ 일정 조회 기능
 고객은 업체의 일정, 카테고리를 확인할 수 있으며 빈 시간대에 일정 예약을 요청할 수 있습니다.
@@ -38,24 +35,25 @@
 ### local
 |Intellij|JDK 11|Spring Boot|Docker|
 |:---:|:---:|:---:|:---:|
-|<img src="/uploads/019e531cf0901d80f61a422e69ad1b66/image.png" height="70px" />|<img src="/uploads/617a7ac7c8136954aa81358c612cc63e/image.png" height="70px" />|<img src="/uploads/4499a24446e9743ee09ae710704e3c7f/image.png" height="70px" />|<img src="/uploads/3b02b4efda490eeb0d73b6e71cbc3dae/image.png" height="70px" />|
+|<img src="https://user-images.githubusercontent.com/57346428/201485479-1afe6c3b-f4c6-445e-9571-dfa69fe05ed5.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485473-df4c3051-d002-4ebe-bb76-9f40877354a6.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485489-c736460b-4972-4a25-ae6d-3ffe1fc03364.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485465-fd9a1093-624f-4ec1-b90d-041b53db4abf.png" height="70px" />|
 ### server (ec2)
 |Docker|Jenkins|Nginx|MariaDB|Redis|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="/uploads/44d35bc3c1899c266457a5241adb1a1f/image.png" height="70px" />|<img src="/uploads/9d1cf873b8395f1607a81fc603326596/image.png" height="70px" />|<img src="/uploads/f184631071dfd353885661310dfbc406/image.png" height="70px" />|<img src="/uploads/9454b8b1d3aee00aa5f3838280086c9d/image.png" height="70px" />|<img src="/uploads/c654ef5538849e5c6dcf692bf0fb7979/2.png" height="70px" />|
+|<img src="https://user-images.githubusercontent.com/57346428/201485465-fd9a1093-624f-4ec1-b90d-041b53db4abf.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485481-a64eef1c-5b2c-477b-928b-07167c7ceddb.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485478-c010bb71-e543-4d70-88f8-b54029e9db94.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485474-a6525625-bb89-4353-90e1-605d935941a4.png" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/205480235-660e544b-95b8-4f57-8920-d768b73ae8cd.png" height="70px" />|
 
 ## frontend
 |HTML|CSS|JavaScript|TypeScript|
 |:---:|:---:|:---:|:---:|
-|<img src="/uploads/6793b173ce186a19ae856cf8039dceb6/image.png" height="70px" />|<img src="/uploads/66f51d79a3c95cc4f6ec938444491e37/image.png" height="70px" />|<img src="/uploads/b5bf77d10412a63533ab5c6f513d596c/image.png" height="70px" />|<img src="/uploads/3dc22e271d971a5bf8f31dfa41bc9241/3.png" height="70px" />|
+|<img src="https://user-images.githubusercontent.com/57346428/201485466-acdca075-fda0-4270-a624-13f65b68eb73.svg" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485464-d9acf4e1-bc99-4c53-9ee1-e0ea5208151f.svg" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485471-b2af26e8-a01f-4fca-99df-ba55197e7221.svg" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/205480236-c07a874f-7f21-401d-a5ab-e4eaf2c50248.png" height="70px" />|
+
 
 |React|Redux|Sass|Mui|
 |:---:|:---:|:---:|:---:|
-|<img src="/uploads/92970f5563834f04e171b1a80d8c0b4e/image.png" height="70px" />|<img src="/uploads/b7a47272d61662e3bd8ec969157f9318/image.png" height="70px" />|<img src="/uploads/65a4d03024f914b7547816ec66785a8f/image.png" height="70px" />|<img src="/uploads/f4197a6763483e6552cf82e27fd40bab/image.png" height="70px" />|
+|<img src="https://user-images.githubusercontent.com/57346428/201485482-4271f58e-eff9-4210-a501-226c37fe63cd.svg" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485485-39e73f7a-0b45-4745-9992-1a4b2cc20c22.svg" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485486-bc1ff015-0878-4b91-a669-26474ef15d46.svg" height="70px" />|<img src="https://user-images.githubusercontent.com/57346428/201485476-067081ef-b33d-4897-95f5-4698cae36c9d.png" height="70px" />|
 
 # 4. 시스템 구성도
 
-![제목_없는_다이어그램.drawio](/uploads/ebef644f5d0403a88d5f6a6374dec53f/제목_없는_다이어그램.drawio.png)
+![제목_없는_다이어그램 drawio](https://user-images.githubusercontent.com/57346428/205480304-0a0b4420-04f7-437d-bee9-c31cca834cb1.png)
 
 # 5. 실행 방법
 ## backend
@@ -67,8 +65,7 @@ gitlab(back branch) push or merge -> jenkins webhook -> auto build
 ssh -i K7D106T.pem ubuntu@k7d106.p.ssafy.io
 ```
 
-### docker logs
-![image](/uploads/cea753e37746b5ce94b991333c57c16a/image.png)
+![image](https://user-images.githubusercontent.com/52438368/211197392-8860b850-19ee-4bcf-99d8-c04c73efc29c.png)
 ```
 docker logs --tail 300 iljungitjung_server_green
 ```
