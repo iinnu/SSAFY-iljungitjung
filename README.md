@@ -8,26 +8,53 @@
 
 
 # 1. 서비스 소개
+
+<div align="center">
+  <img width="200" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/0e79ec1a-84b0-4ea8-8972-68ac9edf5d29" />
+</div>
+<br />
+
 **일정있정**은 개인과 소상공인을 위한 웹 스케줄링 서비스 입니다.  
+
 네이버, 카카오 미용실과 같은 예약 시스템은 등록된 업체만 이용 가능하며 예약이나 약속을 잡을 때 전화나 SNS를 이용한 커뮤니케이션에 의존적이라는 문제점에 착안하여 쉽고 편하게 이용할 수 있는 웹 서비스를 개발하였습니다.  
+
 ‘매우 가벼운’ 일정 예약 툴을 찾고 있는 프로젝트 팀이나 일정 조율, 관리가 중요한 직업이지만 이를 위한 복잡한 절차를 거치기 힘든 소상공인들이 사용할 수 있습니다.
+
+📆 **프로젝트 규모**: 2022.10.11 - 2022.11.21, 6인(프론트엔드 3명, 백엔드 3명)  
 
 🔗 [노션 바로가기](https://fierce-alpaca-126.notion.site/3329ecd7f4c54f13979f2edce36bd810)
 
 # 2. 주요 기능
+
 ### ✅ 일정 예약 기능
+<img width="600" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/2b00d354-8a39-4c01-b83c-b7094fac71d6" />
+<img width="600" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/2abaace4-4692-44b4-8bbc-0a81542d9462" />
+
 고객은 예약 시간, 요청 사항으로 일정을 예약할 수 있습니다.  
 고객이 업체의 일정을 확인한 후 빈 시간대에 요청 사항을 입력하면 업체 측에서는 확인 후 수락 및 거절 시 고객에게 메시지를 전송할 수 있습니다.
 
 ### ✅ 일정 알림 기능
-매일 오전 10시 오늘 일정 알림을 고객에게 전송합니다.
+<img width="250" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/ebc5e040-cf84-496d-b210-0b4e49401814" />
+
+매일 오전 10시 오늘 일정 알림을 고객에게 전송합니다.  
 고객이 예약을 신청하거나 취소하면 업체에게 알림 문자를 전송해주고, 업체가 예약을 승인하거나 취소하면 고객에게 알림 문자를 전송해줍니다.
 
-### ✅ 일정 조회 기능
-고객은 업체의 일정, 카테고리를 확인할 수 있으며 빈 시간대에 일정 예약을 요청할 수 있습니다.
+### ✅ 검색 기능
+<img width="600" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/9b99a872-563f-45bc-a93c-70a6d62e023a" />
+
+사용자 이름을 기반으로 검색할 수 있습니다.  
+검색 결과를 클릭하면 상세 설명이 나오고 바로가기 버튼을 클릭해서 예약 페이지로 이동할 수 있습니다.
+
+### ✅ 예약 조회 기능
+<img width="600" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/067465ab-9797-44f9-a088-85f011ee17e7" />
+<img width="600" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/0d8a65cb-bbb0-4437-8cfd-d8e477c17f72" />
+
+고객은 본인이 기간을 선택해서 예약한 목록을 확인하거나 예약을 취소할 수 있습니다.
 
 ### ✅ 일정 관리 기능
-업체는 카테고리 등록, 수정, 삭제를 통해 카테고리를 관리할 수 있습니다.
+<img width="600" src="https://github.com/iinnu/SSAFY-iljungitjung/assets/55791128/87dbac9e-4378-4f92-9ff2-376025483889" />
+
+업체는 카테고리 등록, 수정, 삭제를 통해 카테고리를 관리할 수 있습니다.  
 업체는 일정 차단 기능을 통해 해당 시간대에 예약이 불가하도록 차단할 수 있습니다.
 
 # 3. 기술 스택
